@@ -15,9 +15,6 @@ An Excel-based project that analyzes supermarket transaction data to uncover tre
 - Conditional Formatting
 - Excel Charts & Slicers
 
-## 📁 Files
-- `super market project.xlsx`: The main workbook containing cleaned data, dashboards, and visualizations.
-
 ## 📸 
 <img width="923" alt="Image" src="https://github.com/user-attachments/assets/1768e568-b1a7-4641-958f-182387f41621" />
 <img width="910" alt="Image" src="https://github.com/user-attachments/assets/1b953e9c-c35c-4f6f-b98f-409def35347d" />
